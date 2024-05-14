@@ -1,0 +1,10 @@
+.git
+.idea
+.vs
+**/Binaries/**
+**/RiderLink/**
+**/Intermediate/**
+**/Saved/*
+.vsconfig
+DerivedDataCache/**
+Platforms/**
